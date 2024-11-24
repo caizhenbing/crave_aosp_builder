@@ -37,7 +37,7 @@ on:
       LOCAL_MANIFEST:
         description: "Personal local manifest [repository or raw]:"
         required: true
-        default: 'https://github.com/caizhenbing/android_kernel_xiaomi_haydn'
+        default: 'https://github.com/caizhenbing/local_manifests_oxygen'
       LOCAL_MANIFEST_BRANCH:
         description: "Personal local manifest's branch:"
         required: false
