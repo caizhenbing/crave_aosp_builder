@@ -131,7 +131,7 @@ jobs:
         "LineageOS 18.1")
           export PROJECTFOLDER="/crave-devspaces/Lineage18"
           export PROJECTID="85"
-          export REPO_INIT="repo init -u https://github.com/accupara/los18.1.git -b lineage-18.1 --git-lfs --depth=1"
+          export REPO_INIT="repo init -u https://github.com/caizhenbing/android_kernel_xiaomi_haydn.git -b lineage-18.1 --git-lfs --depth=1"
         ;;
         "LineageOS 16.0")
           export PROJECTFOLDER="/crave-devspaces/Lineage16"
